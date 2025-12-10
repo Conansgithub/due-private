@@ -3,7 +3,7 @@ module github.com/Conansgithub/due-private/registry/etcd/v2
 go 1.23.0
 
 require (
-	github.com/Conansgithub/due-private/v2 v2.4.3
+	github.com/Conansgithub/due-private/v2 v2.5.0
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/v3 v3.5.21
 )
