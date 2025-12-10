@@ -1,8 +1,8 @@
 package grpc
 
 import (
-	"github.com/Conansgithub/due/transport/grpc/v2/internal/client"
-	"github.com/Conansgithub/due/transport/grpc/v2/internal/server"
+	"github.com/Conansgithub/due-private/transport/grpc/v2/internal/client"
+	"github.com/Conansgithub/due-private/transport/grpc/v2/internal/server"
 	"github.com/Conansgithub/due-private/v2/etc"
 	"github.com/Conansgithub/due-private/v2/registry"
 	"google.golang.org/grpc"

@@ -3,9 +3,9 @@ package rpcx
 import (
 	"sync"
 
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/client"
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/logger"
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/server"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/client"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/logger"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/server"
 	"github.com/Conansgithub/due-private/v2/registry"
 	"github.com/Conansgithub/due-private/v2/transport"
 )

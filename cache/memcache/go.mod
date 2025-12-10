@@ -1,10 +1,10 @@
-module github.com/dobyte/due/cache/memcache/v2
+module github.com/Conansgithub/due-private/cache/memcache/v2
 
 go 1.23.0
 
 require (
-	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
 	github.com/Conansgithub/due-private/v2 v2.4.2
+	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
 	golang.org/x/sync v0.13.0
 )
 

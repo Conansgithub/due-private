@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Conansgithub/due/crypto/rsa/v2"
+	"github.com/Conansgithub/due-private/crypto/rsa/v2"
 )
 
 func TestGenerateKey(t *testing.T) {

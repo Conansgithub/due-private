@@ -1,9 +1,9 @@
-module github.com/Conansgithub/due/config/consul/v2
+module github.com/Conansgithub/due-private/config/consul/v2
 
 go 1.23.0
 
 require (
-	github.com/Conansgithub/due-private/v2 v2.4.2
+	github.com/Conansgithub/due-private/v2 v2.5.0
 	github.com/hashicorp/consul/api v1.32.0
 )
 

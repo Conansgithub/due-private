@@ -3,8 +3,8 @@ package client
 import (
 	"sync"
 
-	"github.com/Conansgithub/due/transport/grpc/v2/internal/resolver/direct"
-	"github.com/Conansgithub/due/transport/grpc/v2/internal/resolver/discovery"
+	"github.com/Conansgithub/due-private/transport/grpc/v2/internal/resolver/direct"
+	"github.com/Conansgithub/due-private/transport/grpc/v2/internal/resolver/discovery"
 	"github.com/Conansgithub/due-private/v2/registry"
 	"golang.org/x/sync/singleflight"
 	"google.golang.org/grpc"

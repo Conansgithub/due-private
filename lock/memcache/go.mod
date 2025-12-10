@@ -1,10 +1,10 @@
-module github.com/Conansgithub/due/lock/memcache/v2
+module github.com/Conansgithub/due-private/lock/memcache/v2
 
 go 1.23.0
 
 require (
+	github.com/Conansgithub/due-private/v2 v2.5.0
 	github.com/bradfitz/gomemcache v0.0.0-20250403215159-8d39553ac7cf
-	github.com/Conansgithub/due-private/v2 v2.4.2
 )
 
 require (

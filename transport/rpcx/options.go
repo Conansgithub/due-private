@@ -1,8 +1,8 @@
 package rpcx
 
 import (
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/client"
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/server"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/client"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/server"
 	"github.com/Conansgithub/due-private/v2/etc"
 	"github.com/Conansgithub/due-private/v2/registry"
 )

@@ -1,10 +1,10 @@
-module github.com/Conansgithub/due/eventbus/kafka/v2
+module github.com/Conansgithub/due-private/eventbus/kafka/v2
 
 go 1.23.0
 
 require (
+	github.com/Conansgithub/due-private/v2 v2.5.0
 	github.com/IBM/sarama v1.43.3
-	github.com/Conansgithub/due-private/v2 v2.4.2
 )
 
 require (

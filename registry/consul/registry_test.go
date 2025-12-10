@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/registry/consul/v2"
+	"github.com/Conansgithub/due-private/registry/consul/v2"
 	"github.com/Conansgithub/due-private/v2/cluster"
 	"github.com/Conansgithub/due-private/v2/registry"
 	"github.com/Conansgithub/due-private/v2/utils/xnet"

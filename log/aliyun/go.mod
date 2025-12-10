@@ -1,10 +1,10 @@
-module github.com/Conansgithub/due/log/aliyun/v2
+module github.com/Conansgithub/due-private/log/aliyun/v2
 
 go 1.23.0
 
 require (
+	github.com/Conansgithub/due-private/v2 v2.5.0
 	github.com/aliyun/aliyun-log-go-sdk v0.1.100
-	github.com/Conansgithub/due-private/v2 v2.4.2
 )
 
 require (

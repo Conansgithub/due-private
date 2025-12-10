@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/network/tcp/v2"
+	"github.com/Conansgithub/due-private/network/tcp/v2"
 	"github.com/Conansgithub/due-private/v2/core/buffer"
 	"github.com/Conansgithub/due-private/v2/log"
 	"github.com/Conansgithub/due-private/v2/network"

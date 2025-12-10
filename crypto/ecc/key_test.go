@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Conansgithub/due/crypto/ecc/v2"
+	"github.com/Conansgithub/due-private/crypto/ecc/v2"
 )
 
 func TestGenerateKey(t *testing.T) {

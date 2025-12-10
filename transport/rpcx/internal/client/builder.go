@@ -4,9 +4,9 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/resolver"
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/resolver/direct"
-	"github.com/Conansgithub/due/transport/rpcx/v2/internal/resolver/discovery"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/resolver"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/resolver/direct"
+	"github.com/Conansgithub/due-private/transport/rpcx/v2/internal/resolver/discovery"
 	"github.com/Conansgithub/due-private/v2/core/tls"
 	"github.com/Conansgithub/due-private/v2/errors"
 	"github.com/Conansgithub/due-private/v2/registry"

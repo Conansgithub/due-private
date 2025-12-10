@@ -1,9 +1,9 @@
-module github.com/Conansgithub/due/registry/nacos/v2
+module github.com/Conansgithub/due-private/registry/nacos/v2
 
 go 1.23.0
 
 require (
-	github.com/Conansgithub/due-private/v2 v2.4.2
+	github.com/Conansgithub/due-private/v2 v2.5.0
 	github.com/nacos-group/nacos-sdk-go/v2 v2.2.7
 	golang.org/x/sync v0.13.0
 )

@@ -3,7 +3,7 @@ package ecc_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/crypto/ecc/v2"
+	"github.com/Conansgithub/due-private/crypto/ecc/v2"
 	"github.com/Conansgithub/due-private/v2/core/hash"
 	"github.com/Conansgithub/due-private/v2/utils/xrand"
 )

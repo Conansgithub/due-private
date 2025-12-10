@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Conansgithub/due/component/http/v2/swagger"
+	"github.com/Conansgithub/due-private/component/http/v2/swagger"
 	"github.com/Conansgithub/due-private/v2/component"
 	"github.com/Conansgithub/due-private/v2/core/info"
 	xnet "github.com/Conansgithub/due-private/v2/core/net"

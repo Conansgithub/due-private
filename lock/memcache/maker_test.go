@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/lock/memcache/v2"
+	"github.com/Conansgithub/due-private/lock/memcache/v2"
 )
 
 func TestMaker_Make(t *testing.T) {

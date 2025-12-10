@@ -3,7 +3,7 @@ package rsa_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/crypto/rsa/v2"
+	"github.com/Conansgithub/due-private/crypto/rsa/v2"
 	"github.com/Conansgithub/due-private/v2/core/hash"
 	"github.com/Conansgithub/due-private/v2/utils/xrand"
 )

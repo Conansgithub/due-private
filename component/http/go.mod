@@ -1,9 +1,9 @@
-module github.com/Conansgithub/due/component/http/v2
+module github.com/Conansgithub/due-private/component/http/v2
 
 go 1.23.0
 
 require (
-	github.com/Conansgithub/due-private/v2 v2.4.2
+	github.com/Conansgithub/due-private/v2 v2.5.0
 	github.com/go-openapi/runtime v0.28.0
 	github.com/gofiber/fiber/v3 v3.0.0-beta.4
 )

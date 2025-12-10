@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/eventbus/kafka/v2"
+	"github.com/Conansgithub/due-private/eventbus/kafka/v2"
 	"github.com/Conansgithub/due-private/v2/eventbus"
 )
 

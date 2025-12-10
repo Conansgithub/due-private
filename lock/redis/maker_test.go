@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/lock/redis/v2"
+	"github.com/Conansgithub/due-private/lock/redis/v2"
 )
 
 func TestMaker_Make(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	_ "net/http/pprof"
 	"testing"
 
-	"github.com/Conansgithub/due/network/kcp/v2"
+	"github.com/Conansgithub/due-private/network/kcp/v2"
 	"github.com/Conansgithub/due-private/v2/core/buffer"
 	"github.com/Conansgithub/due-private/v2/log"
 	"github.com/Conansgithub/due-private/v2/network"

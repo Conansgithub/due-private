@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/config/consul/v2"
+	"github.com/Conansgithub/due-private/config/consul/v2"
 	"github.com/Conansgithub/due-private/v2/config"
 )
 

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/eventbus/redis/v2"
+	"github.com/Conansgithub/due-private/eventbus/redis/v2"
 	"github.com/Conansgithub/due-private/v2/eventbus"
 )
 
