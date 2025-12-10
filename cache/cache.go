@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/log"
 )
 
 var globalCache Cache
