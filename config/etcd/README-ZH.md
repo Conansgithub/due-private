@@ -41,8 +41,8 @@ package main
 import (
     "context"
     "github.com/dobyte/due/config/etcd/v2"
-    "github.com/dobyte/due/v2/config"
-    "github.com/dobyte/due/v2/log"
+    "github.com/Conansgithub/due/v2/config"
+    "github.com/Conansgithub/due/v2/log"
     "time"
 )
 

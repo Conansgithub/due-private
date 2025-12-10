@@ -3,7 +3,7 @@ module github.com/dobyte/due/registry/etcd/v2
 go 1.23.0
 
 require (
-	github.com/dobyte/due/v2 v2.4.2
+	github.com/Conansgithub/due/v2 v2.4.2
 	go.etcd.io/etcd/api/v3 v3.5.21
 	go.etcd.io/etcd/client/v3 v3.5.21
 )
@@ -37,4 +37,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/dobyte/due/v2 => ../../
+replace github.com/Conansgithub/due/v2 => ../../

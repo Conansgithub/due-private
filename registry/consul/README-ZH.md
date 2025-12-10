@@ -45,10 +45,10 @@ package main
 import (
     "context"
     "github.com/dobyte/due/registry/consul/v2"
-    "github.com/dobyte/due/v2/cluster"
-    "github.com/dobyte/due/v2/log"
-    "github.com/dobyte/due/v2/registry"
-    "github.com/dobyte/due/v2/utils/xuuid"
+    "github.com/Conansgithub/due/v2/cluster"
+    "github.com/Conansgithub/due/v2/log"
+    "github.com/Conansgithub/due/v2/registry"
+    "github.com/Conansgithub/due/v2/utils/xuuid"
     "time"
 )
 

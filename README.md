@@ -245,7 +245,7 @@ docker-compose up
 2.获取框架
 
 ```shell
-go get -u github.com/dobyte/due/v2@latest
+go get -u github.com/Conansgithub/due/v2@latest
 go get -u github.com/dobyte/due/locate/redis/v2@latest
 go get -u github.com/dobyte/due/network/ws/v2@latest
 go get -u github.com/dobyte/due/registry/consul/v2@latest
@@ -261,8 +261,8 @@ import (
    "github.com/dobyte/due/locate/redis/v2"
    "github.com/dobyte/due/network/ws/v2"
    "github.com/dobyte/due/registry/consul/v2"
-   "github.com/dobyte/due/v2"
-   "github.com/dobyte/due/v2/cluster/gate"
+   "github.com/Conansgithub/due/v2"
+   "github.com/Conansgithub/due/v2/cluster/gate"
 )
 
 func main() {
@@ -322,11 +322,11 @@ import (
    "fmt"
    "github.com/dobyte/due/locate/redis/v2"
    "github.com/dobyte/due/registry/consul/v2"
-   "github.com/dobyte/due/v2"
-   "github.com/dobyte/due/v2/cluster/node"
-   "github.com/dobyte/due/v2/codes"
-   "github.com/dobyte/due/v2/log"
-   "github.com/dobyte/due/v2/utils/xtime"
+   "github.com/Conansgithub/due/v2"
+   "github.com/Conansgithub/due/v2/cluster/node"
+   "github.com/Conansgithub/due/v2/codes"
+   "github.com/Conansgithub/due/v2/log"
+   "github.com/Conansgithub/due/v2/utils/xtime"
 )
 
 const greet = 1
@@ -423,12 +423,12 @@ import (
    "fmt"
    "github.com/dobyte/due/eventbus/nats/v2"
    "github.com/dobyte/due/network/ws/v2"
-   "github.com/dobyte/due/v2"
-   "github.com/dobyte/due/v2/cluster"
-   "github.com/dobyte/due/v2/cluster/client"
-   "github.com/dobyte/due/v2/eventbus"
-   "github.com/dobyte/due/v2/log"
-   "github.com/dobyte/due/v2/utils/xtime"
+   "github.com/Conansgithub/due/v2"
+   "github.com/Conansgithub/due/v2/cluster"
+   "github.com/Conansgithub/due/v2/cluster/client"
+   "github.com/Conansgithub/due/v2/eventbus"
+   "github.com/Conansgithub/due/v2/log"
+   "github.com/Conansgithub/due/v2/utils/xtime"
    "time"
 )
 
@@ -724,7 +724,7 @@ throughput (TPS)     : 159147
    例如：due主模块版本为v2.3.2，而子模块lock/redis版本为v2.0.0-20250902100831-0402c3a6689f，这就会导致版本不一致的问题。
 
    ```text
-   github.com/dobyte/due/v2 v2.3.2
+   github.com/Conansgithub/due/v2 v2.3.2
    github.com/dobyte/due/lock/redis/v2 v2.0.0-20250902100831-0402c3a6689f
    ```
 
