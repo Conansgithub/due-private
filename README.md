@@ -1,24 +1,24 @@
 # due 基于Go语言开发的高性能分布式游戏服务器框架
 
-[![Build Status](https://github.com/dobyte/due/workflows/Go/badge.svg)](https://github.com/dobyte/due/actions)
-[![goproxy.cn](https://goproxy.cn/stats/github.com/dobyte/due/badges/download-count.svg)](https://github.com/dobyte/due)
-[![Go Reference](https://pkg.go.dev/badge/github.com/dobyte/due.svg)](https://pkg.go.dev/github.com/dobyte/due)
+[![Build Status](https://github.com/Conansgithub/due/workflows/Go/badge.svg)](https://github.com/Conansgithub/due/actions)
+[![goproxy.cn](https://goproxy.cn/stats/github.com/Conansgithub/due/badges/download-count.svg)](https://github.com/Conansgithub/due)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Conansgithub/due.svg)](https://pkg.go.dev/github.com/Conansgithub/due)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Report Card](https://goreportcard.com/badge/github.com/dobyte/due)](https://goreportcard.com/report/github.com/dobyte/due)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Conansgithub/due)](https://goreportcard.com/report/github.com/Conansgithub/due)
 ![Coverage](https://img.shields.io/badge/Coverage-17.4%25-red)
 [![Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
-[![Release](https://img.shields.io/github/v/release/dobyte/due?style=flat)](https://github.com/dobyte/due/releases)
-![Stars](https://img.shields.io/github/stars/dobyte/due?style=flat)
-![Forks](https://img.shields.io/github/forks/dobyte/due?style=flat)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/dobyte/due?style=flat)](https://github.com/dobyte/due/pulls)
-[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dobyte/due?style=flat)](https://github.com/dobyte/due/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub issues](https://img.shields.io/github/issues/dobyte/due?style=flat)](https://github.com/dobyte/due/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/dobyte/due?style=flat)](https://github.com/dobyte/due/issues?q=is%3Aissue+is%3Aclosed)
+[![Release](https://img.shields.io/github/v/release/Conansgithub/due?style=flat)](https://github.com/Conansgithub/due/releases)
+![Stars](https://img.shields.io/github/stars/Conansgithub/due?style=flat)
+![Forks](https://img.shields.io/github/forks/Conansgithub/due?style=flat)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Conansgithub/due?style=flat)](https://github.com/Conansgithub/due/pulls)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Conansgithub/due?style=flat)](https://github.com/Conansgithub/due/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/Conansgithub/due?style=flat)](https://github.com/Conansgithub/due/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/Conansgithub/due?style=flat)](https://github.com/Conansgithub/due/issues?q=is%3Aissue+is%3Aclosed)
 
 ### 1.介绍
 
-[due](https://dobyte.github.io/) 是一款基于Go语言开发的轻量级、高性能分布式游戏服务器框架。
+[due](https://Conansgithub.github.io/) 是一款基于Go语言开发的轻量级、高性能分布式游戏服务器框架。
 其中，模块设计方面借鉴了[kratos](https://github.com/go-kratos/kratos)的模块设计思路，旨在为游戏服务器开发提供完善、高效、优雅、标准化的解决方案。
 框架自创建至今已在多个企业级游戏项目中上线实践过，稳定性有充分的保障。
 
@@ -53,7 +53,7 @@
 * 服务：支持grpc、rpcx等多种微服务解决方案。
 * 灵活：支持单体、分布式等多种架构方案。
 * Web：提供http协议的fiber服务器及swagger文档解决方案。
-* 工具：提供[due-cli](https://github.com/dobyte/due-cli)脚手架工具箱，可快速构建集群项目。
+* 工具：提供[due-cli](https://github.com/Conansgithub/due-cli)脚手架工具箱，可快速构建集群项目。
 * 缓存：支持redis、memcache等多种常用的缓存方案。
 * Actor：提供完善actor模型解决方案。
 * 分布式锁：支持redis、memcache等多种分布式锁解决方案。
@@ -183,13 +183,13 @@ go install github.com/rpcxio/protoc-gen-rpcx@latest
 5.安装gorm dao代码生成工具（使用场景：使用[GORM](https://gorm.io/)作为数据库orm）
 
 ```shell
-go install github.com/dobyte/gorm-dao-generator@latest
+go install github.com/Conansgithub/gorm-dao-generator@latest
 ```
 
 6.安装mongo dao代码生成工具（使用场景：使用[MongoDB](https://github.com/mongodb/mongo-go-driver)作为数据库orm）
 
 ```shell
-go install github.com/dobyte/mongo-dao-generator@latest
+go install github.com/Conansgithub/mongo-dao-generator@latest
 ```
 
 ### 8.配置中心
@@ -246,10 +246,10 @@ docker-compose up
 
 ```shell
 go get -u github.com/Conansgithub/due/v2@latest
-go get -u github.com/dobyte/due/locate/redis/v2@latest
-go get -u github.com/dobyte/due/network/ws/v2@latest
-go get -u github.com/dobyte/due/registry/consul/v2@latest
-go get -u github.com/dobyte/due/transport/rpcx/v2@latest
+go get -u github.com/Conansgithub/due/locate/redis/v2@latest
+go get -u github.com/Conansgithub/due/network/ws/v2@latest
+go get -u github.com/Conansgithub/due/registry/consul/v2@latest
+go get -u github.com/Conansgithub/due/transport/rpcx/v2@latest
 ```
 
 3.构建Gate服务器
@@ -258,9 +258,9 @@ go get -u github.com/dobyte/due/transport/rpcx/v2@latest
 package main
 
 import (
-   "github.com/dobyte/due/locate/redis/v2"
-   "github.com/dobyte/due/network/ws/v2"
-   "github.com/dobyte/due/registry/consul/v2"
+   "github.com/Conansgithub/due/locate/redis/v2"
+   "github.com/Conansgithub/due/network/ws/v2"
+   "github.com/Conansgithub/due/registry/consul/v2"
    "github.com/Conansgithub/due/v2"
    "github.com/Conansgithub/due/v2/cluster/gate"
 )
@@ -297,7 +297,7 @@ $ go run main.go
                  / /_/ / /_/ / /___
                 /_____/\____/_____/
 ┌──────────────────────────────────────────────────────┐
-| [Website] https://github.com/dobyte/due              |
+| [Website] https://github.com/Conansgithub/due              |
 | [Version] v2.1.0                                     |
 └──────────────────────────────────────────────────────┘
 ┌────────────────────────Global────────────────────────┐
@@ -320,8 +320,8 @@ package main
 
 import (
    "fmt"
-   "github.com/dobyte/due/locate/redis/v2"
-   "github.com/dobyte/due/registry/consul/v2"
+   "github.com/Conansgithub/due/locate/redis/v2"
+   "github.com/Conansgithub/due/registry/consul/v2"
    "github.com/Conansgithub/due/v2"
    "github.com/Conansgithub/due/v2/cluster/node"
    "github.com/Conansgithub/due/v2/codes"
@@ -396,7 +396,7 @@ $ go run main.go
                  / /_/ / /_/ / /___
                 /_____/\____/_____/
 ┌──────────────────────────────────────────────────────┐
-| [Website] https://github.com/dobyte/due              |
+| [Website] https://github.com/Conansgithub/due              |
 | [Version] v2.1.0                                     |
 └──────────────────────────────────────────────────────┘
 ┌────────────────────────Global────────────────────────┐
@@ -421,8 +421,8 @@ package main
 
 import (
    "fmt"
-   "github.com/dobyte/due/eventbus/nats/v2"
-   "github.com/dobyte/due/network/ws/v2"
+   "github.com/Conansgithub/due/eventbus/nats/v2"
+   "github.com/Conansgithub/due/network/ws/v2"
    "github.com/Conansgithub/due/v2"
    "github.com/Conansgithub/due/v2/cluster"
    "github.com/Conansgithub/due/v2/cluster/client"
@@ -527,7 +527,7 @@ $ go run main.go
                  / /_/ / /_/ / /___
                 /_____/\____/_____/
 ┌──────────────────────────────────────────────────────┐
-| [Website] https://github.com/dobyte/due              |
+| [Website] https://github.com/Conansgithub/due              |
 | [Version] v2.1.0                                     |
 └──────────────────────────────────────────────────────┘
 ┌────────────────────────Global────────────────────────┐
@@ -564,7 +564,7 @@ Ubuntu 20.04.6 LTS 13th Gen Intel(R) Core(TM) i5-13400F 16GB
                  / /_/ / /_/ / /___
                 /_____/\____/_____/
 ┌──────────────────────────────────────────────────────┐
-| [Website] https://github.com/dobyte/due              |
+| [Website] https://github.com/Conansgithub/due              |
 | [Version] v2.3.2                                     |
 └──────────────────────────────────────────────────────┘
 ┌────────────────────────Global────────────────────────┐
@@ -644,55 +644,55 @@ throughput (TPS)     : 159147
 --------------------------------
 ```
 
-本测试结果仅供参考，详细测试用例代码请查看[due-benchmark](https://github.com/dobyte/due-benchmark)
+本测试结果仅供参考，详细测试用例代码请查看[due-benchmark](https://github.com/Conansgithub/due-benchmark)
 
 ### 13.其他组件
 
 1. 日志组件
-    * zap: github.com/dobyte/due/log/zap/v2
-    * logrus: github.com/dobyte/due/log/logrus/v2
-    * aliyun: github.com/dobyte/due/log/aliyun/v2
-    * tencent: github.com/dobyte/due/log/zap/v2
+    * zap: github.com/Conansgithub/due/log/zap/v2
+    * logrus: github.com/Conansgithub/due/log/logrus/v2
+    * aliyun: github.com/Conansgithub/due/log/aliyun/v2
+    * tencent: github.com/Conansgithub/due/log/zap/v2
 2. 网络组件
-    * ws: github.com/dobyte/due/network/ws/v2
-    * tcp: github.com/dobyte/due/network/tcp/v2
-    * kcp: github.com/dobyte/due/network/kcp/v2
+    * ws: github.com/Conansgithub/due/network/ws/v2
+    * tcp: github.com/Conansgithub/due/network/tcp/v2
+    * kcp: github.com/Conansgithub/due/network/kcp/v2
 3. 注册发现
-    * etcd: github.com/dobyte/due/registry/etcd/v2
-    * consul: github.com/dobyte/due/registry/consul/v2
-    * nacos: github.com/dobyte/due/registry/nacos/v2
+    * etcd: github.com/Conansgithub/due/registry/etcd/v2
+    * consul: github.com/Conansgithub/due/registry/consul/v2
+    * nacos: github.com/Conansgithub/due/registry/nacos/v2
 4. 传输组件
-    * grpc: github.com/dobyte/due/transport/grpc/v2
-    * rpcx: github.com/dobyte/due/transport/rpcx/v2
+    * grpc: github.com/Conansgithub/due/transport/grpc/v2
+    * rpcx: github.com/Conansgithub/due/transport/rpcx/v2
 5. 定位组件
-    * redis: github.com/dobyte/due/locate/redis/v2
+    * redis: github.com/Conansgithub/due/locate/redis/v2
 6. 事件总线
-    * redis: github.com/dobyte/due/eventbus/redis/v2
-    * nats: github.com/dobyte/due/eventbus/nats/v2
-    * kafka: github.com/dobyte/due/eventbus/kafka/v2
+    * redis: github.com/Conansgithub/due/eventbus/redis/v2
+    * nats: github.com/Conansgithub/due/eventbus/nats/v2
+    * kafka: github.com/Conansgithub/due/eventbus/kafka/v2
 7. Web组件
-    * http: github.com/dobyte/due/component/http/v2
+    * http: github.com/Conansgithub/due/component/http/v2
 8. 配置中心
-   * etcd: github.com/dobyte/due/config/etcd/v2
-   * consul: github.com/dobyte/due/config/consul/v2
-   * nacos: github.com/dobyte/due/config/nacos/v2
+   * etcd: github.com/Conansgithub/due/config/etcd/v2
+   * consul: github.com/Conansgithub/due/config/consul/v2
+   * nacos: github.com/Conansgithub/due/config/nacos/v2
 9. 缓存组件
-   * redis: github.com/dobyte/due/cache/redis/v2
-   * memcache: github.com/dobyte/due/cache/memcache/v2
+   * redis: github.com/Conansgithub/due/cache/redis/v2
+   * memcache: github.com/Conansgithub/due/cache/memcache/v2
 10. 分布式锁组件
-    * redis: github.com/dobyte/due/lock/redis/v2
-    * memcache: github.com/dobyte/due/lock/memcache/v2
+    * redis: github.com/Conansgithub/due/lock/redis/v2
+    * memcache: github.com/Conansgithub/due/lock/memcache/v2
 
 ### 14.其他客户端
 
-* [due-client-ts](https://github.com/dobyte/due-client-ts)
-* [due-client-shape](https://github.com/dobyte/due-client-shape)
+* [due-client-ts](https://github.com/Conansgithub/due-client-ts)
+* [due-client-shape](https://github.com/Conansgithub/due-client-shape)
 
 ### 15.详细示例
 
-- [due-examples](https://github.com/dobyte/due-examples)
-- [due-chat](https://github.com/dobyte/due-chat)
-- [due-doudizhu-server](https://github.com/dobyte/due-doudizhu-desc) 高性能分布式游戏服务器商业实战案例-斗地主服务器 (付费项目，购买请联系框架作者)
+- [due-examples](https://github.com/Conansgithub/due-examples)
+- [due-chat](https://github.com/Conansgithub/due-chat)
+- [due-doudizhu-server](https://github.com/Conansgithub/due-doudizhu-desc) 高性能分布式游戏服务器商业实战案例-斗地主服务器 (付费项目，购买请联系框架作者)
 
 ### 16.三方示例
 
@@ -725,14 +725,14 @@ throughput (TPS)     : 159147
 
    ```text
    github.com/Conansgithub/due/v2 v2.3.2
-   github.com/dobyte/due/lock/redis/v2 v2.0.0-20250902100831-0402c3a6689f
+   github.com/Conansgithub/due/lock/redis/v2 v2.0.0-20250902100831-0402c3a6689f
    ```
 
    解决：
 
-   1.进入到[release](https://github.com/dobyte/due/releases)页面，找到框架发布的版本号对应的commit号：93262b5。
+   1.进入到[release](https://github.com/Conansgithub/due/releases)页面，找到框架发布的版本号对应的commit号：93262b5。
 
-   2.执行go get github.com/dobyte/due/lock/redis/v2@93262b5拉取与主模块本版对应的子模块。
+   2.执行go get github.com/Conansgithub/due/lock/redis/v2@93262b5拉取与主模块本版对应的子模块。
 
    3.至此，问题解决。
 

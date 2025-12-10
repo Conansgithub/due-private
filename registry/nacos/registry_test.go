@@ -13,12 +13,12 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Conansgithub/due/registry/nacos/v2"
 	"github.com/Conansgithub/due/v2/cluster"
 	"github.com/Conansgithub/due/v2/core/net"
 	"github.com/Conansgithub/due/v2/log"
 	"github.com/Conansgithub/due/v2/registry"
 	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/dobyte/due/registry/nacos/v2"
 	"golang.org/x/sync/errgroup"
 )
 

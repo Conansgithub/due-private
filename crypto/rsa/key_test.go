@@ -2,8 +2,9 @@ package rsa_test
 
 import (
 	"fmt"
-	"github.com/dobyte/due/crypto/rsa/v2"
 	"testing"
+
+	"github.com/Conansgithub/due/crypto/rsa/v2"
 )
 
 func TestGenerateKey(t *testing.T) {

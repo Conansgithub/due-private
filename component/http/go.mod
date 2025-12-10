@@ -1,4 +1,4 @@
-module github.com/dobyte/due/component/http/v2
+module github.com/Conansgithub/due/component/http/v2
 
 go 1.23.0
 

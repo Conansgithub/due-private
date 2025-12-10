@@ -2,8 +2,9 @@ package ecc_test
 
 import (
 	"fmt"
-	"github.com/dobyte/due/crypto/ecc/v2"
 	"testing"
+
+	"github.com/Conansgithub/due/crypto/ecc/v2"
 )
 
 func TestGenerateKey(t *testing.T) {

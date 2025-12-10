@@ -1,4 +1,4 @@
-module github.com/dobyte/due/registry/consul/v2
+module github.com/Conansgithub/due/registry/consul/v2
 
 go 1.23.0
 

@@ -1,4 +1,4 @@
-module github.com/dobyte/due/config/etcd/v2
+module github.com/Conansgithub/due/config/etcd/v2
 
 go 1.23.0
 

@@ -13,7 +13,7 @@
 1.安装
 
 ```shell
-go get github.com/dobyte/due/registry/consul/v2@latest
+go get github.com/Conansgithub/due/registry/consul/v2@latest
 ```
 
 2.consul配置项
@@ -44,7 +44,7 @@ package main
 
 import (
     "context"
-    "github.com/dobyte/due/registry/consul/v2"
+    "github.com/Conansgithub/due/registry/consul/v2"
     "github.com/Conansgithub/due/v2/cluster"
     "github.com/Conansgithub/due/v2/log"
     "github.com/Conansgithub/due/v2/registry"
@@ -132,4 +132,4 @@ func watch(reg *consul.Registry, serviceName string, goroutineID int) {
 
 ### 3.详细示例
 
-更多详细示例请点击[due-examples](https://github.com/dobyte/due-examples)
+更多详细示例请点击[due-examples](https://github.com/Conansgithub/due-examples)

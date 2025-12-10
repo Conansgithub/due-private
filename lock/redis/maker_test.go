@@ -2,10 +2,11 @@ package redis_test
 
 import (
 	"context"
-	"github.com/dobyte/due/lock/redis/v2"
 	"sync"
 	"testing"
 	"time"
+
+	"github.com/Conansgithub/due/lock/redis/v2"
 )
 
 func TestMaker_Make(t *testing.T) {

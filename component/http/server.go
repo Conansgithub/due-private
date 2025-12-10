@@ -4,12 +4,12 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/Conansgithub/due/component/http/v2/swagger"
 	"github.com/Conansgithub/due/v2/component"
 	"github.com/Conansgithub/due/v2/core/info"
 	xnet "github.com/Conansgithub/due/v2/core/net"
 	"github.com/Conansgithub/due/v2/errors"
 	"github.com/Conansgithub/due/v2/log"
-	"github.com/dobyte/due/component/http/v2/swagger"
 	"github.com/gofiber/fiber/v3"
 	"github.com/gofiber/fiber/v3/middleware/cors"
 	"github.com/gofiber/fiber/v3/middleware/logger"

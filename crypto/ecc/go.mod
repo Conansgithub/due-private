@@ -1,4 +1,4 @@
-module github.com/dobyte/due/crypto/ecc/v2
+module github.com/Conansgithub/due/crypto/ecc/v2
 
 go 1.23.0
 

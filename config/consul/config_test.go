@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Conansgithub/due/config/consul/v2"
 	"github.com/Conansgithub/due/v2/config"
-	"github.com/dobyte/due/config/consul/v2"
 )
 
 func init() {

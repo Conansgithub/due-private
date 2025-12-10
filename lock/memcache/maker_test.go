@@ -2,10 +2,11 @@ package memcache_test
 
 import (
 	"context"
-	"github.com/dobyte/due/lock/memcache/v2"
 	"sync"
 	"testing"
 	"time"
+
+	"github.com/Conansgithub/due/lock/memcache/v2"
 )
 
 func TestMaker_Make(t *testing.T) {

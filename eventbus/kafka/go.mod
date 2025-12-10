@@ -1,4 +1,4 @@
-module github.com/dobyte/due/eventbus/kafka/v2
+module github.com/Conansgithub/due/eventbus/kafka/v2
 
 go 1.23.0
 

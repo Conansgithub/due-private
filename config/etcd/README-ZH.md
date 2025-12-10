@@ -13,7 +13,7 @@
 1.安装
 
 ```shell
-go get -u github.com/dobyte/due/config/etcd/v2@latest
+go get -u github.com/Conansgithub/due/config/etcd/v2@latest
 ```
 
 2.etc配置项
@@ -40,7 +40,7 @@ package main
 
 import (
     "context"
-    "github.com/dobyte/due/config/etcd/v2"
+    "github.com/Conansgithub/due/config/etcd/v2"
     "github.com/Conansgithub/due/v2/config"
     "github.com/Conansgithub/due/v2/log"
     "time"
@@ -85,4 +85,4 @@ func main() {
 
 ### 4.详细示例
 
-更多详细示例请点击[due-examples](https://github.com/dobyte/due-examples)
+更多详细示例请点击[due-examples](https://github.com/Conansgithub/due-examples)

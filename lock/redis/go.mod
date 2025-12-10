@@ -1,4 +1,4 @@
-module github.com/dobyte/due/lock/redis/v2
+module github.com/Conansgithub/due/lock/redis/v2
 
 go 1.23.0
 

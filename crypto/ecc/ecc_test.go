@@ -3,9 +3,9 @@ package ecc_test
 import (
 	"testing"
 
+	"github.com/Conansgithub/due/crypto/ecc/v2"
 	"github.com/Conansgithub/due/v2/core/hash"
 	"github.com/Conansgithub/due/v2/utils/xrand"
-	"github.com/dobyte/due/crypto/ecc/v2"
 )
 
 const (

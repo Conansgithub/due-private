@@ -3,9 +3,9 @@ package rsa_test
 import (
 	"testing"
 
+	"github.com/Conansgithub/due/crypto/rsa/v2"
 	"github.com/Conansgithub/due/v2/core/hash"
 	"github.com/Conansgithub/due/v2/utils/xrand"
-	"github.com/dobyte/due/crypto/rsa/v2"
 )
 
 var (

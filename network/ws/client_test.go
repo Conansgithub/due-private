@@ -14,11 +14,11 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Conansgithub/due/network/ws/v2"
 	"github.com/Conansgithub/due/v2/core/buffer"
 	"github.com/Conansgithub/due/v2/log"
 	"github.com/Conansgithub/due/v2/network"
 	"github.com/Conansgithub/due/v2/packet"
-	"github.com/dobyte/due/network/ws/v2"
 )
 
 func TestClient_Dial(t *testing.T) {

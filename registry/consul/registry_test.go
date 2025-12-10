@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Conansgithub/due/registry/consul/v2"
 	"github.com/Conansgithub/due/v2/cluster"
 	"github.com/Conansgithub/due/v2/registry"
 	"github.com/Conansgithub/due/v2/utils/xnet"
-	"github.com/dobyte/due/registry/consul/v2"
 )
 
 const (

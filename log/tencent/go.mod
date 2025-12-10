@@ -1,4 +1,4 @@
-module github.com/dobyte/due/log/tencent/v2
+module github.com/Conansgithub/due/log/tencent/v2
 
 go 1.23.0
 

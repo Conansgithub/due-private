@@ -5,11 +5,11 @@ import (
 	_ "net/http/pprof"
 	"testing"
 
+	"github.com/Conansgithub/due/network/tcp/v2"
 	"github.com/Conansgithub/due/v2/core/buffer"
 	"github.com/Conansgithub/due/v2/log"
 	"github.com/Conansgithub/due/v2/network"
 	"github.com/Conansgithub/due/v2/packet"
-	"github.com/dobyte/due/network/tcp/v2"
 )
 
 func TestServer_Simple(t *testing.T) {
