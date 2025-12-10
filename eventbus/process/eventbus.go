@@ -4,10 +4,10 @@ import (
 	"context"
 	"sync"
 
-	"github.com/dobyte/due/v2/core/value"
-	"github.com/dobyte/due/v2/eventbus/internal"
-	"github.com/dobyte/due/v2/utils/xtime"
-	"github.com/dobyte/due/v2/utils/xuuid"
+	"github.com/Conansgithub/due/v2/core/value"
+	"github.com/Conansgithub/due/v2/eventbus/internal"
+	"github.com/Conansgithub/due/v2/utils/xtime"
+	"github.com/Conansgithub/due/v2/utils/xuuid"
 )
 
 type Eventbus struct {

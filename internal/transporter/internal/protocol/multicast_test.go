@@ -1,12 +1,13 @@
 package protocol_test
 
 import (
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/session"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/codes"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/protocol"
+	"github.com/Conansgithub/due/v2/packet"
+	"github.com/Conansgithub/due/v2/session"
 )
 
 func TestEncodeMulticastReq(t *testing.T) {

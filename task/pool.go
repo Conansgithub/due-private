@@ -1,8 +1,8 @@
 package task
 
 import (
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/utils/xcall"
 	"github.com/panjf2000/ants/v2"
 )
 

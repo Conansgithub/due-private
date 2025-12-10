@@ -1,8 +1,9 @@
 package etc_test
 
 import (
-	"github.com/dobyte/due/v2/etc"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/etc"
 )
 
 func Test_Get(t *testing.T) {

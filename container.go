@@ -9,17 +9,17 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/dobyte/due/v2/cache"
-	"github.com/dobyte/due/v2/component"
-	"github.com/dobyte/due/v2/config"
-	"github.com/dobyte/due/v2/core/info"
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/eventbus"
-	"github.com/dobyte/due/v2/lock"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/task"
-	"github.com/dobyte/due/v2/utils/xcall"
-	"github.com/dobyte/due/v2/utils/xos"
+	"github.com/Conansgithub/due/v2/cache"
+	"github.com/Conansgithub/due/v2/component"
+	"github.com/Conansgithub/due/v2/config"
+	"github.com/Conansgithub/due/v2/core/info"
+	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due/v2/eventbus"
+	"github.com/Conansgithub/due/v2/lock"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/task"
+	"github.com/Conansgithub/due/v2/utils/xcall"
+	"github.com/Conansgithub/due/v2/utils/xos"
 )
 
 const (

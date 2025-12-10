@@ -2,12 +2,13 @@ package client
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/crypto"
-	"github.com/dobyte/due/v2/encoding"
-	"github.com/dobyte/due/v2/etc"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/utils/xuuid"
 	"time"
+
+	"github.com/Conansgithub/due/v2/crypto"
+	"github.com/Conansgithub/due/v2/encoding"
+	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due/v2/network"
+	"github.com/Conansgithub/due/v2/utils/xuuid"
 )
 
 const (

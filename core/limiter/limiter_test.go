@@ -2,8 +2,9 @@ package limiter_test
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/core/limiter"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/core/limiter"
 )
 
 func TestLimiter_Allow(t *testing.T) {

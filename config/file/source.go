@@ -1,9 +1,9 @@
 package file
 
 import (
-	"github.com/dobyte/due/v2/config"
-	"github.com/dobyte/due/v2/config/file/core"
-	"github.com/dobyte/due/v2/log"
+	"github.com/Conansgithub/due/v2/config"
+	"github.com/Conansgithub/due/v2/config/file/core"
+	"github.com/Conansgithub/due/v2/log"
 )
 
 const Name = core.Name

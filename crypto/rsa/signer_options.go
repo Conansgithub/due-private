@@ -1,9 +1,10 @@
 package rsa
 
 import (
-	"github.com/dobyte/due/v2/core/hash"
-	"github.com/dobyte/due/v2/etc"
 	"strings"
+
+	"github.com/Conansgithub/due/v2/core/hash"
+	"github.com/Conansgithub/due/v2/etc"
 )
 
 const (

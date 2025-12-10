@@ -1,8 +1,9 @@
 package flag_test
 
 import (
-	"github.com/dobyte/due/v2/flag"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/flag"
 )
 
 func TestString(t *testing.T) {

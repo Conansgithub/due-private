@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Conansgithub/due/v2/eventbus"
 	"github.com/dobyte/due/eventbus/kafka/v2"
-	"github.com/dobyte/due/v2/eventbus"
 )
 
 const (

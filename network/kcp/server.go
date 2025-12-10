@@ -8,8 +8,8 @@
 package kcp
 
 import (
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/network"
 	"github.com/xtaci/kcp-go/v5"
 )
 

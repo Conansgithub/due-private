@@ -4,13 +4,13 @@ import (
 	"context"
 	"sync/atomic"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/internal/transporter/internal/client"
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/session"
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/client"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/codes"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/protocol"
+	"github.com/Conansgithub/due/v2/session"
 )
 
 type Client struct {

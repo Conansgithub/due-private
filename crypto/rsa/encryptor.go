@@ -3,8 +3,9 @@ package rsa
 import (
 	"crypto/rand"
 	"crypto/rsa"
-	"github.com/dobyte/due/v2/errors"
 	"math"
+
+	"github.com/Conansgithub/due/v2/errors"
 )
 
 type Encryptor struct {

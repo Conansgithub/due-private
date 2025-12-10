@@ -2,9 +2,10 @@ package xcall_test
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/utils/xcall"
 	"testing"
 	"time"
+
+	"github.com/Conansgithub/due/v2/utils/xcall"
 )
 
 func TestGoroutines_Run(t *testing.T) {

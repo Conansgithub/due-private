@@ -6,13 +6,13 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/component"
-	"github.com/dobyte/due/v2/core/info"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/transport"
-	"github.com/dobyte/due/v2/utils/xcall"
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/component"
+	"github.com/Conansgithub/due/v2/core/info"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/registry"
+	"github.com/Conansgithub/due/v2/transport"
+	"github.com/Conansgithub/due/v2/utils/xcall"
 )
 
 type HookHandler func(proxy *Proxy)

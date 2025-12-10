@@ -3,11 +3,11 @@ package dispatcher
 import (
 	"sync"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/core/endpoint"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/registry"
 )
 
 type Dispatcher struct {

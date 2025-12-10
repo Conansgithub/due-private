@@ -2,8 +2,9 @@ package packet
 
 import (
 	"encoding/binary"
-	"github.com/dobyte/due/v2/etc"
 	"strings"
+
+	"github.com/Conansgithub/due/v2/etc"
 )
 
 // heartbeat packet

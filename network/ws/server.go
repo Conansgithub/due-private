@@ -8,12 +8,13 @@
 package ws
 
 import (
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/utils/xcall"
-	"github.com/gorilla/websocket"
 	"net"
 	"net/http"
+
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/network"
+	"github.com/Conansgithub/due/v2/utils/xcall"
+	"github.com/gorilla/websocket"
 )
 
 type UpgradeHandler func(w http.ResponseWriter, r *http.Request) (allowed bool)

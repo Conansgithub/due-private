@@ -6,9 +6,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/Conansgithub/due/v2/log"
 	sls "github.com/aliyun/aliyun-log-go-sdk"
 	"github.com/aliyun/aliyun-log-go-sdk/producer"
-	"github.com/dobyte/due/v2/log"
 )
 
 const (

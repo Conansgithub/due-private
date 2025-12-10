@@ -2,8 +2,9 @@ package codes_test
 
 import (
 	"errors"
-	"github.com/dobyte/due/v2/codes"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/codes"
 )
 
 func TestConvert(t *testing.T) {

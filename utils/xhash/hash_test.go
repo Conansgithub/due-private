@@ -1,8 +1,9 @@
 package xhash_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xhash"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/utils/xhash"
 )
 
 func TestSHA256(t *testing.T) {

@@ -1,12 +1,13 @@
 package rpcx
 
 import (
+	"sync"
+
+	"github.com/Conansgithub/due/v2/registry"
+	"github.com/Conansgithub/due/v2/transport"
 	"github.com/dobyte/due/transport/rpcx/v2/internal/client"
 	"github.com/dobyte/due/transport/rpcx/v2/internal/logger"
 	"github.com/dobyte/due/transport/rpcx/v2/internal/server"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/transport"
-	"sync"
 )
 
 const name = "rpcx"

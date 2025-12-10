@@ -5,8 +5,8 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/Conansgithub/due/v2/eventbus"
 	"github.com/IBM/sarama"
-	"github.com/dobyte/due/v2/eventbus"
 )
 
 type Eventbus struct {

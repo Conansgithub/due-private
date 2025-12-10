@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/dobyte/due/v2/core/tls"
-	"github.com/dobyte/due/v2/eventbus"
-	"github.com/dobyte/due/v2/utils/xconv"
+	"github.com/Conansgithub/due/v2/core/tls"
+	"github.com/Conansgithub/due/v2/eventbus"
+	"github.com/Conansgithub/due/v2/utils/xconv"
 	"github.com/go-redis/redis/v8"
 )
 

@@ -2,8 +2,9 @@ package lock_test
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/lock"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/lock"
 )
 
 func TestMake(t *testing.T) {

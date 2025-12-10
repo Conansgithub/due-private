@@ -1,8 +1,9 @@
 package endpoint_test
 
 import (
-	"github.com/dobyte/due/v2/core/endpoint"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/core/endpoint"
 )
 
 func TestNewEndpoint(t *testing.T) {

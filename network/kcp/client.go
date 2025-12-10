@@ -1,9 +1,10 @@
 package kcp
 
 import (
-	"github.com/dobyte/due/v2/network"
-	"github.com/xtaci/kcp-go/v5"
 	"sync/atomic"
+
+	"github.com/Conansgithub/due/v2/network"
+	"github.com/xtaci/kcp-go/v5"
 )
 
 type client struct {

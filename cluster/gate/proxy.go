@@ -3,13 +3,13 @@ package gate
 import (
 	"context"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/internal/link"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/mode"
-	"github.com/dobyte/due/v2/packet"
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/internal/link"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/mode"
+	"github.com/Conansgithub/due/v2/packet"
 )
 
 type proxy struct {

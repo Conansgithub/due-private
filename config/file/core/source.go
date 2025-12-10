@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/dobyte/due/v2/config"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/utils/xos"
+	"github.com/Conansgithub/due/v2/config"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/utils/xos"
 )
 
 const Name = "file"

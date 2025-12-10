@@ -3,7 +3,7 @@ package redis
 import (
 	"time"
 
-	"github.com/dobyte/due/v2/etc"
+	"github.com/Conansgithub/due/v2/etc"
 	"github.com/go-redis/redis/v8"
 )
 

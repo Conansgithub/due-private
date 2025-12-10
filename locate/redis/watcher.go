@@ -3,11 +3,12 @@ package redis
 import (
 	"context"
 	"fmt"
-	"github.com/dobyte/due/v2/locate"
-	"github.com/dobyte/due/v2/log"
-	"github.com/go-redis/redis/v8"
 	"sync"
 	"sync/atomic"
+
+	"github.com/Conansgithub/due/v2/locate"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/go-redis/redis/v8"
 )
 
 type watcher struct {

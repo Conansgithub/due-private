@@ -3,8 +3,8 @@ package kafka
 import (
 	"context"
 
+	"github.com/Conansgithub/due/v2/etc"
 	"github.com/IBM/sarama"
-	"github.com/dobyte/due/v2/etc"
 )
 
 const (

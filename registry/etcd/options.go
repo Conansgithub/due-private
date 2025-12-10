@@ -9,9 +9,10 @@ package etcd
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/etc"
-	clientv3 "go.etcd.io/etcd/client/v3"
 	"time"
+
+	"github.com/Conansgithub/due/v2/etc"
+	clientv3 "go.etcd.io/etcd/client/v3"
 )
 
 const (

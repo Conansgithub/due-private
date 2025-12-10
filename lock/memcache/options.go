@@ -3,8 +3,8 @@ package memcache
 import (
 	"time"
 
+	"github.com/Conansgithub/due/v2/etc"
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/dobyte/due/v2/etc"
 )
 
 const (

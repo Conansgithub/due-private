@@ -11,12 +11,12 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/network"
+	"github.com/Conansgithub/due/v2/packet"
+	"github.com/Conansgithub/due/v2/utils/xcall"
 	"github.com/dobyte/due/network/ws/v2"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xcall"
 )
 
 func TestServer(t *testing.T) {

@@ -3,9 +3,9 @@ package protocol_test
 import (
 	"testing"
 
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/packet"
+	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/protocol"
+	"github.com/Conansgithub/due/v2/packet"
 )
 
 func TestEncodePublishReq(t *testing.T) {

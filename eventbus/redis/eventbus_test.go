@@ -2,11 +2,12 @@ package redis_test
 
 import (
 	"context"
-	"github.com/dobyte/due/eventbus/redis/v2"
-	"github.com/dobyte/due/v2/eventbus"
 	"log"
 	"testing"
 	"time"
+
+	"github.com/Conansgithub/due/v2/eventbus"
+	"github.com/dobyte/due/eventbus/redis/v2"
 )
 
 const (

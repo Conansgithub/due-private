@@ -2,9 +2,10 @@ package errors_test
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/codes"
-	"github.com/dobyte/due/v2/errors"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/codes"
+	"github.com/Conansgithub/due/v2/errors"
 )
 
 func TestNew(t *testing.T) {

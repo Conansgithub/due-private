@@ -2,8 +2,9 @@ package chains_test
 
 import (
 	"fmt"
-	"github.com/dobyte/due/v2/core/chains"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/core/chains"
 )
 
 func TestNewChain(t *testing.T) {

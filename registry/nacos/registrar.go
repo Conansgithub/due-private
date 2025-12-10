@@ -6,10 +6,10 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/dobyte/due/v2/encoding/json"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/registry"
-	"github.com/dobyte/due/v2/utils/xconv"
+	"github.com/Conansgithub/due/v2/encoding/json"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/registry"
+	"github.com/Conansgithub/due/v2/utils/xconv"
 	"github.com/nacos-group/nacos-sdk-go/v2/vo"
 )
 

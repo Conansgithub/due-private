@@ -1,7 +1,7 @@
 package console
 
 import (
-	"github.com/dobyte/due/v2/etc"
+	"github.com/Conansgithub/due/v2/etc"
 )
 
 const (

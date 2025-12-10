@@ -1,11 +1,11 @@
 package link
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/crypto"
-	"github.com/dobyte/due/v2/encoding"
-	"github.com/dobyte/due/v2/locate"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/crypto"
+	"github.com/Conansgithub/due/v2/encoding"
+	"github.com/Conansgithub/due/v2/locate"
+	"github.com/Conansgithub/due/v2/registry"
 )
 
 type Options struct {

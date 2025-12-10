@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"reflect"
 
-	"github.com/dobyte/due/v2/encoding/json"
-	"github.com/dobyte/due/v2/utils/xreflect"
+	"github.com/Conansgithub/due/v2/encoding/json"
+	"github.com/Conansgithub/due/v2/utils/xreflect"
 )
 
 func Byte(val any) byte {

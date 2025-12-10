@@ -10,10 +10,11 @@ package etcd
 import (
 	"context"
 	"fmt"
-	"github.com/dobyte/due/v2/encoding/json"
-	"github.com/dobyte/due/v2/registry"
-	"go.etcd.io/etcd/client/v3"
 	"sync"
+
+	"github.com/Conansgithub/due/v2/encoding/json"
+	"github.com/Conansgithub/due/v2/registry"
+	clientv3 "go.etcd.io/etcd/client/v3"
 )
 
 const name = "etcd"

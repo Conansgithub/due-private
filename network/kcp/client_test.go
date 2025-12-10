@@ -8,12 +8,12 @@ import (
 	"testing"
 	"time"
 
+	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/network"
+	"github.com/Conansgithub/due/v2/packet"
+	"github.com/Conansgithub/due/v2/utils/xrand"
 	"github.com/dobyte/due/network/kcp/v2"
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
-	"github.com/dobyte/due/v2/packet"
-	"github.com/dobyte/due/v2/utils/xrand"
 )
 
 func TestClient_Simple(t *testing.T) {

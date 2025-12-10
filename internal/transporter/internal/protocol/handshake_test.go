@@ -1,11 +1,12 @@
 package protocol_test
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/internal/transporter/internal/codes"
-	"github.com/dobyte/due/v2/internal/transporter/internal/protocol"
-	"github.com/dobyte/due/v2/utils/xuuid"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/codes"
+	"github.com/Conansgithub/due/v2/internal/transporter/internal/protocol"
+	"github.com/Conansgithub/due/v2/utils/xuuid"
 )
 
 func TestEncodeHandshakeReq(t *testing.T) {

@@ -1,8 +1,9 @@
 package xnet_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xnet"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/utils/xnet"
 )
 
 func TestIP2Long(t *testing.T) {

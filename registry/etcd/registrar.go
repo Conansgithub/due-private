@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/dobyte/due/v2/registry"
+	"github.com/Conansgithub/due/v2/registry"
 	clientv3 "go.etcd.io/etcd/client/v3"
 )
 

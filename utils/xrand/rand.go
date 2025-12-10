@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dobyte/due/v2/log"
+	"github.com/Conansgithub/due/v2/log"
 )
 
 const (

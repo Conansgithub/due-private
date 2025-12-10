@@ -1,10 +1,11 @@
 package node
 
 import (
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
 	"sync"
+
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/log"
 )
 
 type Scheduler struct {

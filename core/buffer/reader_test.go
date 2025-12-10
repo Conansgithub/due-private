@@ -6,7 +6,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/dobyte/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/core/buffer"
 )
 
 func TestReader(t *testing.T) {

@@ -2,9 +2,10 @@ package xcall
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/log"
 	"runtime"
 	"time"
+
+	"github.com/Conansgithub/due/v2/log"
 )
 
 // Call 安全地调用函数

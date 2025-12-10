@@ -2,10 +2,11 @@ package consul
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/config"
-	"github.com/hashicorp/consul/api"
 	"path/filepath"
 	"strings"
+
+	"github.com/Conansgithub/due/v2/config"
+	"github.com/hashicorp/consul/api"
 )
 
 const Name = "consul"

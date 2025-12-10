@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/dobyte/due/v2/codes"
-	"github.com/dobyte/due/v2/core/stack"
+	"github.com/Conansgithub/due/v2/codes"
+	"github.com/Conansgithub/due/v2/core/stack"
 )
 
 var (

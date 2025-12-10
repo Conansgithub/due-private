@@ -1,10 +1,11 @@
 package direct
 
 import (
-	"github.com/dobyte/due/v2/log"
-	cli "github.com/smallnest/rpcx/client"
 	"sync"
 	"time"
+
+	"github.com/Conansgithub/due/v2/log"
+	cli "github.com/smallnest/rpcx/client"
 )
 
 type Resolver struct {

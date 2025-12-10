@@ -2,12 +2,13 @@ package core
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/config"
-	"github.com/fsnotify/fsnotify"
 	"io/fs"
 	"os"
 	"path/filepath"
 	"strings"
+
+	"github.com/Conansgithub/due/v2/config"
+	"github.com/fsnotify/fsnotify"
 )
 
 type watcher struct {

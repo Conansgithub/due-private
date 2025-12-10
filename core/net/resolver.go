@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dobyte/due/v2/errors"
+	"github.com/Conansgithub/due/v2/errors"
 )
 
 var urls = []string{

@@ -1,9 +1,10 @@
 package ws
 
 import (
-	"github.com/dobyte/due/v2/network"
-	"github.com/gorilla/websocket"
 	"sync/atomic"
+
+	"github.com/Conansgithub/due/v2/network"
+	"github.com/gorilla/websocket"
 )
 
 type client struct {

@@ -5,8 +5,8 @@ import (
 	"net"
 	"time"
 
-	"github.com/dobyte/due/v2/log"
-	"github.com/dobyte/due/v2/network"
+	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due/v2/network"
 )
 
 type server struct {

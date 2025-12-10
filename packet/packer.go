@@ -6,9 +6,9 @@ import (
 	"io"
 	"time"
 
-	"github.com/dobyte/due/v2/core/buffer"
-	"github.com/dobyte/due/v2/errors"
-	"github.com/dobyte/due/v2/log"
+	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due/v2/log"
 )
 
 const (

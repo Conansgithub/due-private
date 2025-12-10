@@ -1,8 +1,9 @@
 package xstring_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xstring"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/utils/xstring"
 )
 
 func Test_PaddingPrefix(t *testing.T) {

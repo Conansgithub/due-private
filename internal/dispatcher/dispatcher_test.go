@@ -5,10 +5,10 @@ import (
 	"math"
 	"testing"
 
-	"github.com/dobyte/due/v2/cluster"
-	"github.com/dobyte/due/v2/core/endpoint"
-	"github.com/dobyte/due/v2/internal/dispatcher"
-	"github.com/dobyte/due/v2/registry"
+	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due/v2/core/endpoint"
+	"github.com/Conansgithub/due/v2/internal/dispatcher"
+	"github.com/Conansgithub/due/v2/registry"
 )
 
 func TestDispatcher_ReplaceServices(t *testing.T) {

@@ -1,8 +1,9 @@
 package limiter
 
 import (
-	"github.com/dobyte/due/v2/utils/xtime"
 	"sync"
+
+	"github.com/Conansgithub/due/v2/utils/xtime"
 )
 
 // Limiter 令牌桶限流器实现

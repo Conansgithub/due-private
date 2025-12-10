@@ -2,9 +2,10 @@ package buffer
 
 import (
 	"encoding/binary"
-	"github.com/dobyte/due/v2/errors"
 	"io"
 	"math"
+
+	"github.com/Conansgithub/due/v2/errors"
 )
 
 type Reader struct {

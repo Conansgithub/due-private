@@ -2,7 +2,8 @@ package nacos
 
 import (
 	"context"
-	"github.com/dobyte/due/v2/config"
+
+	"github.com/Conansgithub/due/v2/config"
 	"github.com/nacos-group/nacos-sdk-go/v2/vo"
 )
 

@@ -1,8 +1,9 @@
 package xtime_test
 
 import (
-	"github.com/dobyte/due/v2/utils/xtime"
 	"testing"
+
+	"github.com/Conansgithub/due/v2/utils/xtime"
 )
 
 func TestNow(t *testing.T) {
