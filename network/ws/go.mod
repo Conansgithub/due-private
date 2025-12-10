@@ -1,9 +1,10 @@
-module github.com/dobyte/due/network/ws/v2
+module github.com/Conansgithub/due/network/ws/v2
 
 go 1.23.0
 
 require (
 	github.com/Conansgithub/due/v2 v2.4.2
+	github.com/dobyte/due/network/ws/v2 v2.0.0-20251029013848-e5cd0097bf4d
 	github.com/gorilla/websocket v1.5.3
 )
 
@@ -14,6 +15,7 @@ require (
 	github.com/bytedance/sonic v1.14.1 // indirect
 	github.com/bytedance/sonic/loader v0.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.6 // indirect
+	github.com/dobyte/due/v2 v2.4.2 // indirect
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
 	github.com/jinzhu/copier v0.4.0 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
