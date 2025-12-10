@@ -3,7 +3,7 @@ module github.com/Conansgithub/due-private/network/kcp/v2
 go 1.23.0
 
 require (
-	github.com/Conansgithub/due-private/v2 v2.5.0
+	github.com/Conansgithub/due-private/v2 v2.5.1
 	github.com/xtaci/kcp-go/v5 v5.6.20
 )
 

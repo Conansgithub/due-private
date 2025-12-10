@@ -2,7 +2,7 @@ module github.com/Conansgithub/due-private/network/tcp/v2
 
 go 1.23.0
 
-require github.com/Conansgithub/due-private/v2 v2.5.0
+require github.com/Conansgithub/due-private/v2 v2.5.1
 
 require (
 	dario.cat/mergo v1.0.1 // indirect

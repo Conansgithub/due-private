@@ -3,7 +3,7 @@ module github.com/Conansgithub/due-private/locate/redis/v2
 go 1.23.0
 
 require (
-	github.com/Conansgithub/due-private/v2 v2.5.0
+	github.com/Conansgithub/due-private/v2 v2.5.1
 	github.com/go-redis/redis/v8 v8.11.5
 	golang.org/x/sync v0.13.0
 )
