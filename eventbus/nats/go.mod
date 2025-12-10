@@ -3,7 +3,7 @@ module github.com/Conansgithub/due-private/eventbus/nats/v2
 go 1.23.0
 
 require (
-	github.com/Conansgithub/due-private/v2 v2.4.6
+	github.com/Conansgithub/due-private/v2 v2.4.2
 	github.com/nats-io/nats.go v1.37.0
 )
 
