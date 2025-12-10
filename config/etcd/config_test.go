@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/Conansgithub/due/config/etcd/v2"
-	"github.com/Conansgithub/due/v2/config"
+	"github.com/Conansgithub/due-private/v2/config"
 )
 
 func init() {

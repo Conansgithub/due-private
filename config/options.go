@@ -4,11 +4,11 @@ import (
 	"context"
 	"strings"
 
-	"github.com/Conansgithub/due/v2/encoding/json"
-	"github.com/Conansgithub/due/v2/encoding/toml"
-	"github.com/Conansgithub/due/v2/encoding/xml"
-	"github.com/Conansgithub/due/v2/encoding/yaml"
-	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due-private/v2/encoding/json"
+	"github.com/Conansgithub/due-private/v2/encoding/toml"
+	"github.com/Conansgithub/due-private/v2/encoding/xml"
+	"github.com/Conansgithub/due-private/v2/encoding/yaml"
+	"github.com/Conansgithub/due-private/v2/errors"
 )
 
 type Option func(o *options)

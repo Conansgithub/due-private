@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/Conansgithub/due/v2/config"
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/config"
+	"github.com/Conansgithub/due-private/v2/etc"
 	"github.com/nacos-group/nacos-sdk-go/v2/clients/config_client"
 )
 

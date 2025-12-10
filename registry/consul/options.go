@@ -3,7 +3,7 @@ package consul
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/etc"
 	"github.com/hashicorp/consul/api"
 )
 

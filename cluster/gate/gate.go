@@ -13,16 +13,16 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/component"
-	"github.com/Conansgithub/due/v2/core/buffer"
-	"github.com/Conansgithub/due/v2/core/info"
-	"github.com/Conansgithub/due/v2/core/net"
-	"github.com/Conansgithub/due/v2/internal/transporter/gate"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/network"
-	"github.com/Conansgithub/due/v2/registry"
-	"github.com/Conansgithub/due/v2/session"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/component"
+	"github.com/Conansgithub/due-private/v2/core/buffer"
+	"github.com/Conansgithub/due-private/v2/core/info"
+	"github.com/Conansgithub/due-private/v2/core/net"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/gate"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/network"
+	"github.com/Conansgithub/due-private/v2/registry"
+	"github.com/Conansgithub/due-private/v2/session"
 )
 
 type Gate struct {

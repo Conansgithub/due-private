@@ -3,10 +3,10 @@ package client
 import (
 	"net"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/core/value"
-	"github.com/Conansgithub/due/v2/network"
-	"github.com/Conansgithub/due/v2/packet"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/core/value"
+	"github.com/Conansgithub/due-private/v2/network"
+	"github.com/Conansgithub/due-private/v2/packet"
 )
 
 type Conn struct {

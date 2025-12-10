@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/log"
 	cli "github.com/smallnest/rpcx/client"
 )
 

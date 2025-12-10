@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"strings"
 
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/etc"
 )
 
 // heartbeat packet

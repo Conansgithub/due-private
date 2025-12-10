@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Conansgithub/due/v2/config"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/config"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
 	clientv3 "go.etcd.io/etcd/client/v3"
 )
 

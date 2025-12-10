@@ -12,13 +12,13 @@ import (
 	"maps"
 	"time"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/etc"
-	"github.com/Conansgithub/due/v2/locate"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/network"
-	"github.com/Conansgithub/due/v2/registry"
-	"github.com/Conansgithub/due/v2/utils/xuuid"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/etc"
+	"github.com/Conansgithub/due-private/v2/locate"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/network"
+	"github.com/Conansgithub/due-private/v2/registry"
+	"github.com/Conansgithub/due-private/v2/utils/xuuid"
 )
 
 const (

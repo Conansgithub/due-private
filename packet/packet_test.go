@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/packet"
-	"github.com/Conansgithub/due/v2/utils/xrand"
+	"github.com/Conansgithub/due-private/v2/packet"
+	"github.com/Conansgithub/due-private/v2/utils/xrand"
 )
 
 var packer = packet.NewPacker(

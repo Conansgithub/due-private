@@ -7,7 +7,7 @@
 
 package network
 
-import "github.com/Conansgithub/due/v2/core/buffer"
+import "github.com/Conansgithub/due-private/v2/core/buffer"
 
 type (
 	StartHandler      func()

@@ -5,8 +5,8 @@ import (
 
 	"github.com/Conansgithub/due/transport/grpc/v2/internal/client"
 	"github.com/Conansgithub/due/transport/grpc/v2/internal/server"
-	"github.com/Conansgithub/due/v2/registry"
-	"github.com/Conansgithub/due/v2/transport"
+	"github.com/Conansgithub/due-private/v2/registry"
+	"github.com/Conansgithub/due-private/v2/transport"
 )
 
 const name = "grpc"

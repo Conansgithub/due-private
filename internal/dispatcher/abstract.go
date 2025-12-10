@@ -1,8 +1,8 @@
 package dispatcher
 
 import (
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/core/endpoint"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/core/endpoint"
 )
 
 type serviceEndpoint struct {

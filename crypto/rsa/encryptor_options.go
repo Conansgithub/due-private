@@ -3,9 +3,9 @@ package rsa
 import (
 	"strings"
 
-	"github.com/Conansgithub/due/v2/core/hash"
-	"github.com/Conansgithub/due/v2/etc"
-	"github.com/Conansgithub/due/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/core/hash"
+	"github.com/Conansgithub/due-private/v2/etc"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
 )
 
 const (

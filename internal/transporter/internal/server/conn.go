@@ -6,13 +6,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/core/buffer"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/def"
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/protocol"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/core/buffer"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/def"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/protocol"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
 )
 
 type chWrite struct {

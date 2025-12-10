@@ -1,6 +1,6 @@
 package config
 
-import "github.com/Conansgithub/due/v2/errors"
+import "github.com/Conansgithub/due-private/v2/errors"
 
 // Configuration 配置项
 type Configuration struct {

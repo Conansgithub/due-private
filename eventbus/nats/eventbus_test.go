@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/eventbus/nats/v2"
-	"github.com/Conansgithub/due/v2/eventbus"
+	"github.com/Conansgithub/due-private/eventbus/nats/v2"
+	"github.com/Conansgithub/due-private/v2/eventbus"
 )
 
 const (

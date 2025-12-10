@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/internal/transporter/gate"
-	"github.com/Conansgithub/due/v2/session"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/gate"
+	"github.com/Conansgithub/due-private/v2/session"
 )
 
 func TestServer(t *testing.T) {

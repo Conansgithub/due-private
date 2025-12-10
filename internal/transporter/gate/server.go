@@ -3,10 +3,10 @@ package gate
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/codes"
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/protocol"
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/route"
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/server"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/codes"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/protocol"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/route"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/server"
 )
 
 type Server struct {

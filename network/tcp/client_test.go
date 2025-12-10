@@ -9,11 +9,11 @@ import (
 	"time"
 
 	"github.com/Conansgithub/due/network/tcp/v2"
-	"github.com/Conansgithub/due/v2/core/buffer"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/network"
-	"github.com/Conansgithub/due/v2/packet"
-	"github.com/Conansgithub/due/v2/utils/xrand"
+	"github.com/Conansgithub/due-private/v2/core/buffer"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/network"
+	"github.com/Conansgithub/due-private/v2/packet"
+	"github.com/Conansgithub/due-private/v2/utils/xrand"
 )
 
 func TestClient_Simple(t *testing.T) {

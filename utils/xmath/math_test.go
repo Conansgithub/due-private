@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xmath"
+	"github.com/Conansgithub/due-private/v2/utils/xmath"
 )
 
 func TestFloor(t *testing.T) {

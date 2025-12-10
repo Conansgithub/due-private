@@ -12,10 +12,10 @@ import (
 	"sync/atomic"
 
 	"dario.cat/mergo"
-	"github.com/Conansgithub/due/v2/core/value"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/Conansgithub/due/v2/utils/xreflect"
+	"github.com/Conansgithub/due-private/v2/core/value"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xreflect"
 	"github.com/jinzhu/copier"
 )
 

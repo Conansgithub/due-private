@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due-private/v2/core/buffer"
 )
 
 func TestNocopyBuffer(t *testing.T) {

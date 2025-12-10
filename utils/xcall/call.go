@@ -5,7 +5,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/log"
 )
 
 // Call 安全地调用函数

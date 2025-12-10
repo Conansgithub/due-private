@@ -1,7 +1,7 @@
 package cluster
 
 import (
-	"github.com/Conansgithub/due/v2/session"
+	"github.com/Conansgithub/due-private/v2/session"
 )
 
 const (

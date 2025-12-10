@@ -4,11 +4,11 @@ import (
 	"context"
 	"time"
 
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/lock"
-	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/Conansgithub/due/v2/utils/xtime"
-	"github.com/Conansgithub/due/v2/utils/xuuid"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/lock"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/utils/xuuid"
 	"github.com/bradfitz/gomemcache/memcache"
 )
 

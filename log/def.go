@@ -1,7 +1,7 @@
 package log
 
 import (
-	"github.com/Conansgithub/due/v2/log/internal"
+	"github.com/Conansgithub/due-private/v2/log/internal"
 )
 
 // Terminal 日志输出终端

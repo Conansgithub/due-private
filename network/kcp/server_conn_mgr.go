@@ -5,8 +5,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/utils/xcall"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/utils/xcall"
 	"github.com/xtaci/kcp-go/v5"
 )
 

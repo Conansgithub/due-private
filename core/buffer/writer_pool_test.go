@@ -3,7 +3,7 @@ package buffer_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due-private/v2/core/buffer"
 )
 
 func TestWriterPool_Get(t *testing.T) {

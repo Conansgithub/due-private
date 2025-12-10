@@ -1,7 +1,7 @@
 package tencent
 
 import (
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/etc"
 )
 
 const (

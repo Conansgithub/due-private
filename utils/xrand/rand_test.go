@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/Conansgithub/due/v2/utils/xrand"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xrand"
 )
 
 func Test_Str(t *testing.T) {

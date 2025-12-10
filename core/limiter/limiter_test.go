@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/core/limiter"
+	"github.com/Conansgithub/due-private/v2/core/limiter"
 )
 
 func TestLimiter_Allow(t *testing.T) {

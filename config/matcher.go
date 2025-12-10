@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/Conansgithub/due/v2/core/value"
+	"github.com/Conansgithub/due-private/v2/core/value"
 )
 
 type Matcher interface {

@@ -4,11 +4,11 @@ import (
 	"context"
 	"time"
 
-	"github.com/Conansgithub/due/v2/crypto"
-	"github.com/Conansgithub/due/v2/encoding"
-	"github.com/Conansgithub/due/v2/etc"
-	"github.com/Conansgithub/due/v2/network"
-	"github.com/Conansgithub/due/v2/utils/xuuid"
+	"github.com/Conansgithub/due-private/v2/crypto"
+	"github.com/Conansgithub/due-private/v2/encoding"
+	"github.com/Conansgithub/due-private/v2/etc"
+	"github.com/Conansgithub/due-private/v2/network"
+	"github.com/Conansgithub/due-private/v2/utils/xuuid"
 )
 
 const (

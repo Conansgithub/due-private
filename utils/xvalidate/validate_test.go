@@ -3,7 +3,7 @@ package xvalidate_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xvalidate"
+	"github.com/Conansgithub/due-private/v2/utils/xvalidate"
 )
 
 // "XXXX-XXXXXXX"

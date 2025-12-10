@@ -3,11 +3,11 @@ package dispatcher
 import (
 	"sync"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/core/endpoint"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/registry"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/core/endpoint"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/registry"
 )
 
 type Dispatcher struct {

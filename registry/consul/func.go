@@ -3,7 +3,7 @@ package consul
 import (
 	"fmt"
 
-	"github.com/Conansgithub/due/v2/registry"
+	"github.com/Conansgithub/due-private/v2/registry"
 )
 
 // 构建实例ID

@@ -8,13 +8,13 @@
 package encoding
 
 import (
-	"github.com/Conansgithub/due/v2/encoding/json"
-	"github.com/Conansgithub/due/v2/encoding/msgpack"
-	"github.com/Conansgithub/due/v2/encoding/proto"
-	"github.com/Conansgithub/due/v2/encoding/toml"
-	"github.com/Conansgithub/due/v2/encoding/xml"
-	"github.com/Conansgithub/due/v2/encoding/yaml"
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/encoding/json"
+	"github.com/Conansgithub/due-private/v2/encoding/msgpack"
+	"github.com/Conansgithub/due-private/v2/encoding/proto"
+	"github.com/Conansgithub/due-private/v2/encoding/toml"
+	"github.com/Conansgithub/due-private/v2/encoding/xml"
+	"github.com/Conansgithub/due-private/v2/encoding/yaml"
+	"github.com/Conansgithub/due-private/v2/log"
 )
 
 var codecs = make(map[string]Codec)

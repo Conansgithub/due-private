@@ -1,7 +1,7 @@
 package codes
 
 import (
-	"github.com/Conansgithub/due/v2/errors"
+	"github.com/Conansgithub/due-private/v2/errors"
 )
 
 const (

@@ -3,9 +3,9 @@ package node
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/utils/xcall"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/utils/xcall"
 )
 
 type EventHandler func(ctx Context)

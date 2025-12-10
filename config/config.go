@@ -3,7 +3,7 @@ package config
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/core/value"
+	"github.com/Conansgithub/due-private/v2/core/value"
 )
 
 var globalConfigurator Configurator

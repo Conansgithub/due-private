@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Conansgithub/due/v2/registry"
+	"github.com/Conansgithub/due-private/v2/registry"
 )
 
 type watcher struct {

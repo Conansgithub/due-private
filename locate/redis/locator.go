@@ -7,12 +7,12 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/core/tls"
-	"github.com/Conansgithub/due/v2/encoding/json"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/locate"
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/core/tls"
+	"github.com/Conansgithub/due-private/v2/encoding/json"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/locate"
+	"github.com/Conansgithub/due-private/v2/log"
 	"github.com/go-redis/redis/v8"
 	"golang.org/x/sync/singleflight"
 )

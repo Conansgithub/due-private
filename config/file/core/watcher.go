@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Conansgithub/due/v2/config"
+	"github.com/Conansgithub/due-private/v2/config"
 	"github.com/fsnotify/fsnotify"
 )
 

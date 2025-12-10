@@ -3,9 +3,9 @@ package node
 import (
 	"sync"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/log"
 )
 
 type Scheduler struct {

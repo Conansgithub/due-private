@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/core/chains"
+	"github.com/Conansgithub/due-private/v2/core/chains"
 )
 
 func TestNewChain(t *testing.T) {

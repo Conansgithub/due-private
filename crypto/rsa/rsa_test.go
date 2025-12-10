@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/Conansgithub/due/crypto/rsa/v2"
-	"github.com/Conansgithub/due/v2/core/hash"
-	"github.com/Conansgithub/due/v2/utils/xrand"
+	"github.com/Conansgithub/due-private/v2/core/hash"
+	"github.com/Conansgithub/due-private/v2/utils/xrand"
 )
 
 var (

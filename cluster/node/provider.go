@@ -3,9 +3,9 @@ package node
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/packet"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/packet"
 )
 
 type provider struct {

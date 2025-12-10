@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/Conansgithub/due/v2/encoding/json"
-	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/Conansgithub/due/v2/utils/xreflect"
+	"github.com/Conansgithub/due-private/v2/encoding/json"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xreflect"
 )
 
 type Value interface {

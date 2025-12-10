@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/codes"
+	"github.com/Conansgithub/due-private/v2/codes"
 )
 
 func TestConvert(t *testing.T) {

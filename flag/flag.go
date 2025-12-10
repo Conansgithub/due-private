@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
 )
 
 var commandLine = newFlagSet(os.Args[1:])

@@ -6,8 +6,8 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Conansgithub/due/v2/locate"
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/locate"
+	"github.com/Conansgithub/due-private/v2/log"
 	"github.com/go-redis/redis/v8"
 )
 

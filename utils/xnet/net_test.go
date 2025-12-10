@@ -3,7 +3,7 @@ package xnet_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xnet"
+	"github.com/Conansgithub/due-private/v2/utils/xnet"
 )
 
 func TestIP2Long(t *testing.T) {

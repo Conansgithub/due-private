@@ -1,6 +1,6 @@
 package client
 
-import "github.com/Conansgithub/due/v2/cluster"
+import "github.com/Conansgithub/due-private/v2/cluster"
 
 type Options struct {
 	Addr         string       // 连接地址

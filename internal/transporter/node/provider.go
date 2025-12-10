@@ -3,7 +3,7 @@ package node
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/cluster"
 )
 
 type Provider interface {

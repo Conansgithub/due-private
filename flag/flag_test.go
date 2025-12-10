@@ -3,7 +3,7 @@ package flag_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/flag"
+	"github.com/Conansgithub/due-private/v2/flag"
 )
 
 func TestString(t *testing.T) {

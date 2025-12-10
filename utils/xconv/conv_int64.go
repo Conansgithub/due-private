@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Conansgithub/due/v2/utils/xreflect"
+	"github.com/Conansgithub/due-private/v2/utils/xreflect"
 )
 
 func Int64(val any) int64 {

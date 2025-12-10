@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/Conansgithub/due/v2/eventbus"
+	"github.com/Conansgithub/due-private/v2/eventbus"
 	"github.com/nats-io/nats.go"
 )
 

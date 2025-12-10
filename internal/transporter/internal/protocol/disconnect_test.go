@@ -3,9 +3,9 @@ package protocol_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/codes"
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/protocol"
-	"github.com/Conansgithub/due/v2/session"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/codes"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/protocol"
+	"github.com/Conansgithub/due-private/v2/session"
 )
 
 func TestEncodeDisconnectReq(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	"math/cmplx"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/Conansgithub/due/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
 )
 
 func TestInt64(t *testing.T) {

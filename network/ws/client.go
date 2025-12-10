@@ -3,7 +3,7 @@ package ws
 import (
 	"sync/atomic"
 
-	"github.com/Conansgithub/due/v2/network"
+	"github.com/Conansgithub/due-private/v2/network"
 	"github.com/gorilla/websocket"
 )
 

@@ -3,7 +3,7 @@ package limiter
 import (
 	"sync"
 
-	"github.com/Conansgithub/due/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
 )
 
 // Limiter 令牌桶限流器实现

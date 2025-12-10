@@ -3,7 +3,7 @@ package xreflect_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xreflect"
+	"github.com/Conansgithub/due-private/v2/utils/xreflect"
 )
 
 func TestIsNil(t *testing.T) {

@@ -1,12 +1,12 @@
 package nats
 
 import (
-	"github.com/Conansgithub/due/v2/core/value"
-	"github.com/Conansgithub/due/v2/encoding/json"
-	"github.com/Conansgithub/due/v2/eventbus"
-	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/Conansgithub/due/v2/utils/xtime"
-	"github.com/Conansgithub/due/v2/utils/xuuid"
+	"github.com/Conansgithub/due-private/v2/core/value"
+	"github.com/Conansgithub/due-private/v2/encoding/json"
+	"github.com/Conansgithub/due-private/v2/eventbus"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/utils/xuuid"
 )
 
 type data struct {

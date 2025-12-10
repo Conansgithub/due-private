@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/lock"
+	"github.com/Conansgithub/due-private/v2/lock"
 )
 
 func TestMake(t *testing.T) {

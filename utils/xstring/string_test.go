@@ -3,7 +3,7 @@ package xstring_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xstring"
+	"github.com/Conansgithub/due-private/v2/utils/xstring"
 )
 
 func Test_PaddingPrefix(t *testing.T) {

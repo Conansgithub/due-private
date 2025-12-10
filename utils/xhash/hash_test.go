@@ -3,7 +3,7 @@ package xhash_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xhash"
+	"github.com/Conansgithub/due-private/v2/utils/xhash"
 )
 
 func TestSHA256(t *testing.T) {

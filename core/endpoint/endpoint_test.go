@@ -3,7 +3,7 @@ package endpoint_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/core/endpoint"
+	"github.com/Conansgithub/due-private/v2/core/endpoint"
 )
 
 func TestNewEndpoint(t *testing.T) {

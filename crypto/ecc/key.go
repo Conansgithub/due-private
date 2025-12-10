@@ -17,9 +17,9 @@ import (
 	"os"
 	"path"
 
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/utils/xconv"
-	"github.com/Conansgithub/due/v2/utils/xos"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xos"
 	"github.com/ethereum/go-ethereum/crypto/ecies"
 )
 

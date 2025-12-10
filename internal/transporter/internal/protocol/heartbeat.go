@@ -3,7 +3,7 @@ package protocol
 import (
 	"encoding/binary"
 
-	"github.com/Conansgithub/due/v2/core/buffer"
+	"github.com/Conansgithub/due-private/v2/core/buffer"
 )
 
 var heartbeat []byte

@@ -11,7 +11,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/etc"
 	clientv3 "go.etcd.io/etcd/client/v3"
 )
 

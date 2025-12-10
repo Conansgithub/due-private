@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/v2/log/internal"
+	"github.com/Conansgithub/due-private/v2/log/internal"
 )
 
 func TestString(t *testing.T) {

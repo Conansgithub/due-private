@@ -4,9 +4,9 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/Conansgithub/due/v2/eventbus"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/task"
+	"github.com/Conansgithub/due-private/v2/eventbus"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/task"
 )
 
 type consumer struct {

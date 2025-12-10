@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/v2/utils/xcall"
+	"github.com/Conansgithub/due-private/v2/utils/xcall"
 )
 
 func TestGoroutines_Run(t *testing.T) {

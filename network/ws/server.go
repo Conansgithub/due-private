@@ -11,9 +11,9 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/network"
-	"github.com/Conansgithub/due/v2/utils/xcall"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/network"
+	"github.com/Conansgithub/due-private/v2/utils/xcall"
 	"github.com/gorilla/websocket"
 )
 

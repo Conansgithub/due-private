@@ -3,7 +3,7 @@ package etc_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/etc"
 )
 
 func Test_Get(t *testing.T) {

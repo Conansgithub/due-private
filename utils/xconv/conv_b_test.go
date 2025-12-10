@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
 )
 
 func TestB(t *testing.T) {

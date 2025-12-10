@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/locate/redis/v2"
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/utils/xuuid"
+	"github.com/Conansgithub/due-private/locate/redis/v2"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/utils/xuuid"
 )
 
 var locator = redis.NewLocator(

@@ -8,10 +8,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Conansgithub/due/v2/encoding/json"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/registry"
-	"github.com/Conansgithub/due/v2/utils/xconv"
+	"github.com/Conansgithub/due-private/v2/encoding/json"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/registry"
+	"github.com/Conansgithub/due-private/v2/utils/xconv"
 	"github.com/hashicorp/consul/api"
 )
 

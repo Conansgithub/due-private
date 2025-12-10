@@ -5,10 +5,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Conansgithub/due/v2/cluster"
-	"github.com/Conansgithub/due/v2/internal/transporter/internal/server"
-	"github.com/Conansgithub/due/v2/internal/transporter/node"
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/cluster"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/internal/server"
+	"github.com/Conansgithub/due-private/v2/internal/transporter/node"
+	"github.com/Conansgithub/due-private/v2/log"
 )
 
 func TestServer(t *testing.T) {

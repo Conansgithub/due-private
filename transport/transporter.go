@@ -3,8 +3,8 @@ package transport
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/core/endpoint"
-	"github.com/Conansgithub/due/v2/registry"
+	"github.com/Conansgithub/due-private/v2/core/endpoint"
+	"github.com/Conansgithub/due-private/v2/registry"
 )
 
 type Server interface {

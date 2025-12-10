@@ -3,7 +3,7 @@ package internal
 import (
 	"time"
 
-	"github.com/Conansgithub/due/v2/core/value"
+	"github.com/Conansgithub/due-private/v2/core/value"
 )
 
 type EventHandler func(event *Event)

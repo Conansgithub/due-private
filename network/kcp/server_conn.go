@@ -6,14 +6,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Conansgithub/due/v2/core/buffer"
-	"github.com/Conansgithub/due/v2/errors"
-	"github.com/Conansgithub/due/v2/log"
-	"github.com/Conansgithub/due/v2/network"
-	"github.com/Conansgithub/due/v2/packet"
-	"github.com/Conansgithub/due/v2/utils/xcall"
-	"github.com/Conansgithub/due/v2/utils/xnet"
-	"github.com/Conansgithub/due/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/core/buffer"
+	"github.com/Conansgithub/due-private/v2/errors"
+	"github.com/Conansgithub/due-private/v2/log"
+	"github.com/Conansgithub/due-private/v2/network"
+	"github.com/Conansgithub/due-private/v2/packet"
+	"github.com/Conansgithub/due-private/v2/utils/xcall"
+	"github.com/Conansgithub/due-private/v2/utils/xnet"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
 	"github.com/xtaci/kcp-go/v5"
 )
 

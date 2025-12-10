@@ -1,7 +1,7 @@
 package crypto
 
 import (
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/log"
 )
 
 type Encryptor interface {

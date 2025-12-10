@@ -3,8 +3,8 @@ package xconv
 import (
 	"reflect"
 
-	"github.com/Conansgithub/due/v2/encoding/json"
-	"github.com/Conansgithub/due/v2/utils/xreflect"
+	"github.com/Conansgithub/due-private/v2/encoding/json"
+	"github.com/Conansgithub/due-private/v2/utils/xreflect"
 )
 
 func Json(val any) string {

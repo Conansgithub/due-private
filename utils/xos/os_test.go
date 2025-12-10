@@ -3,7 +3,7 @@ package xos_test
 import (
 	"testing"
 
-	xfile "github.com/Conansgithub/due/v2/utils/xos"
+	xfile "github.com/Conansgithub/due-private/v2/utils/xos"
 )
 
 func TestWriteFile(t *testing.T) {

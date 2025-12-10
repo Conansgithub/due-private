@@ -5,10 +5,10 @@ import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/Conansgithub/due/v2/component"
-	"github.com/Conansgithub/due/v2/core/info"
-	xnet "github.com/Conansgithub/due/v2/core/net"
-	"github.com/Conansgithub/due/v2/log"
+	"github.com/Conansgithub/due-private/v2/component"
+	"github.com/Conansgithub/due-private/v2/core/info"
+	xnet "github.com/Conansgithub/due-private/v2/core/net"
+	"github.com/Conansgithub/due-private/v2/log"
 )
 
 var _ component.Component = &PProf{}

@@ -3,7 +3,7 @@ package kafka
 import (
 	"context"
 
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/etc"
 	"github.com/IBM/sarama"
 )
 

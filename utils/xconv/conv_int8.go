@@ -3,7 +3,7 @@ package xconv
 import (
 	"reflect"
 
-	"github.com/Conansgithub/due/v2/utils/xreflect"
+	"github.com/Conansgithub/due-private/v2/utils/xreflect"
 )
 
 func Int8(val any) int8 {

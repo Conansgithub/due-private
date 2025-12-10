@@ -6,8 +6,8 @@ import (
 	"syscall"
 	"unicode/utf8"
 
-	"github.com/Conansgithub/due/v2/mode"
-	"github.com/Conansgithub/due/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/mode"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
 )
 
 const logo = `

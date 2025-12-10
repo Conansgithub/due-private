@@ -3,7 +3,7 @@ package kcp
 import (
 	"sync/atomic"
 
-	"github.com/Conansgithub/due/v2/network"
+	"github.com/Conansgithub/due-private/v2/network"
 	"github.com/xtaci/kcp-go/v5"
 )
 

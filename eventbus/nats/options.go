@@ -3,7 +3,7 @@ package nats
 import (
 	"time"
 
-	"github.com/Conansgithub/due/v2/etc"
+	"github.com/Conansgithub/due-private/v2/etc"
 	"github.com/nats-io/nats.go"
 )
 

@@ -3,7 +3,7 @@ package xtime_test
 import (
 	"testing"
 
-	"github.com/Conansgithub/due/v2/utils/xtime"
+	"github.com/Conansgithub/due-private/v2/utils/xtime"
 )
 
 func TestNow(t *testing.T) {
