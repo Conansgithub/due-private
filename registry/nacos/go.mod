@@ -5,7 +5,7 @@ go 1.23.0
 require (
 	github.com/Conansgithub/due-private/v2 v2.5.1
 	github.com/nacos-group/nacos-sdk-go/v2 v2.2.7
-	golang.org/x/sync v0.13.0
+	golang.org/x/sync v0.14.0
 )
 
 require (
@@ -54,7 +54,7 @@ require (
 	golang.org/x/arch v0.11.0 // indirect
 	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
-	golang.org/x/sys v0.31.0 // indirect
+	golang.org/x/sys v0.33.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.1.0 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
